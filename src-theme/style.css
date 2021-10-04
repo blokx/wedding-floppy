@@ -1,0 +1,25 @@
+/*
+Theme Name:  Blokx Wedding (Child for Twenty Twenty One)
+Theme URI:  https://wedding.blokx.net
+Description:  Child theme for the Twenty Twenty One theme.
+Author:  Robert Bauer
+Textdomain:  blokx
+Author URI:  https://blokx.net/
+Template:  twentytwentyone
+Version:  1.0
+License:  GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+.site-footer > .site-info {
+    display: none !important;
+}
+
+#btns {
+    position: absolute;
+    bottom: 10px;
+    width: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
