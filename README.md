@@ -1,6 +1,6 @@
-# Wedding Floppy and Wedding Homepage
+# Wedding Floppy and Homepage
 
-This repository contains the sources that were created for our wedding floppy project, which was delivered on October 1st 2021 as guest present for our lovely wedding audience.
+This repository contains the sources created for our wedding floppy project, which was delivered on October 1st, 2021 as a gift for our adorable wedding audience.
 
 All guests are encouraged to take part in our wedding quiz.
 
@@ -8,7 +8,7 @@ All guests are encouraged to take part in our wedding quiz.
 
 The general idea behind this project is as follows:
 
-* A simple website serves as platform to host links to the wedding quiz and also provides access to various media files.
+* A simple website serves as platform to host links to the wedding quiz and also provides access to various media files and probably also to the spotify playlists of the wedding party.
 * A 3.5 inch floppy disk, filled with funny, interesting and creative content is gifted to every guest
 * the floppy label contains a shortened link (represented in text form and as QR code) to the website
 * the link contains a 3-digit code that is used as identifier for all guests
